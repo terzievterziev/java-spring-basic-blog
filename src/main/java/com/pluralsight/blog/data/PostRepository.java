@@ -50,13 +50,13 @@ public class PostRepository {
         return ALL_POSTS;
     }
 
-    public Post findById(Long id) {
-        for (Post:ALL_POSTS
-             ) {
-            if(id.equals(id)){
-                return;
-            }
-
-        }
-    }
+//    public Post findById(Long id) {
+//        for (Post:ALL_POSTS
+//             ) {
+//            if(id.equals(id)){
+//                return;
+//            }
+//
+//        }
+//    }
 }
